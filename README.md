@@ -1,4 +1,4 @@
-![logo](https://github.com/AIwithAj/A.i.withAJ/blob/main/artificial-intelligence-banner-vector.jpg)
+![logo](https://github.com/AIwithAj/AIwithAj/blob/main/R.jpeg)
 
 <h1 align="center">Hi 👋, I'm Ajay Mehta</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
